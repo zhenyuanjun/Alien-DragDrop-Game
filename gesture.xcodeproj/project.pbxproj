@@ -13,6 +13,27 @@
 		B2F15E532614CCF00055C487 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B2F15E522614CCF00055C487 /* Preview Assets.xcassets */; };
 		B2F15E5F2614CCF10055C487 /* gestureTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2F15E5E2614CCF10055C487 /* gestureTests.swift */; };
 		B2F15E6A2614CCF10055C487 /* gestureUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2F15E692614CCF10055C487 /* gestureUITests.swift */; };
+		B2F15E7B2614CD910055C487 /* ShuffleTray.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2F15E7A2614CD910055C487 /* ShuffleTray.swift */; };
+		B2F15E802614CDAE0055C487 /* ResetButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2F15E7F2614CDAE0055C487 /* ResetButton.swift */; };
+		B2F15E852614CDBD0055C487 /* GameNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2F15E842614CDBD0055C487 /* GameNumber.swift */; };
+		B2F15E8B2614CE220055C487 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = B2F15E892614CE220055C487 /* start.txt */; };
+		B2F15E8C2614CE220055C487 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = B2F15E892614CE220055C487 /* start.txt */; };
+		B2F15E8D2614CE220055C487 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = B2F15E892614CE220055C487 /* start.txt */; };
+		B2F15E8E2614CE220055C487 /* words.txt in Resources */ = {isa = PBXBuildFile; fileRef = B2F15E8A2614CE220055C487 /* words.txt */; };
+		B2F15E8F2614CE220055C487 /* words.txt in Resources */ = {isa = PBXBuildFile; fileRef = B2F15E8A2614CE220055C487 /* words.txt */; };
+		B2F15E902614CE220055C487 /* words.txt in Resources */ = {isa = PBXBuildFile; fileRef = B2F15E8A2614CE220055C487 /* words.txt */; };
+		B2F15E982614CE3D0055C487 /* Bundle-WordLoading.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2F15E972614CE3D0055C487 /* Bundle-WordLoading.swift */; };
+		B2F15E992614CE3D0055C487 /* Bundle-WordLoading.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2F15E972614CE3D0055C487 /* Bundle-WordLoading.swift */; };
+		B2F15E9A2614CE3D0055C487 /* Bundle-WordLoading.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2F15E972614CE3D0055C487 /* Bundle-WordLoading.swift */; };
+		B2F15E9F2614CE5E0055C487 /* Letter.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2F15E9E2614CE5E0055C487 /* Letter.swift */; };
+		B2F15EA02614CE5E0055C487 /* Letter.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2F15E9E2614CE5E0055C487 /* Letter.swift */; };
+		B2F15EA12614CE5E0055C487 /* Letter.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2F15E9E2614CE5E0055C487 /* Letter.swift */; };
+		B2F15EA72614E8A60055C487 /* Knownobetter.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B2F15EA62614E8A60055C487 /* Knownobetter.mp3 */; };
+		B2F15EA82614E8A60055C487 /* Knownobetter.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B2F15EA62614E8A60055C487 /* Knownobetter.mp3 */; };
+		B2F15EA92614E8A60055C487 /* Knownobetter.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B2F15EA62614E8A60055C487 /* Knownobetter.mp3 */; };
+		B2F15EAE261564A80055C487 /* Music.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2F15EAD261564A80055C487 /* Music.swift */; };
+		B2F15EAF261564A80055C487 /* Music.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2F15EAD261564A80055C487 /* Music.swift */; };
+		B2F15EB0261564A80055C487 /* Music.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2F15EAD261564A80055C487 /* Music.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +67,15 @@
 		B2F15E652614CCF10055C487 /* gestureUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = gestureUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2F15E692614CCF10055C487 /* gestureUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gestureUITests.swift; sourceTree = "<group>"; };
 		B2F15E6B2614CCF10055C487 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B2F15E7A2614CD910055C487 /* ShuffleTray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShuffleTray.swift; sourceTree = "<group>"; };
+		B2F15E7F2614CDAE0055C487 /* ResetButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResetButton.swift; sourceTree = "<group>"; };
+		B2F15E842614CDBD0055C487 /* GameNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameNumber.swift; sourceTree = "<group>"; };
+		B2F15E892614CE220055C487 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
+		B2F15E8A2614CE220055C487 /* words.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = words.txt; sourceTree = "<group>"; };
+		B2F15E972614CE3D0055C487 /* Bundle-WordLoading.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle-WordLoading.swift"; sourceTree = "<group>"; };
+		B2F15E9E2614CE5E0055C487 /* Letter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Letter.swift; sourceTree = "<group>"; };
+		B2F15EA62614E8A60055C487 /* Knownobetter.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Knownobetter.mp3; sourceTree = "<group>"; };
+		B2F15EAD261564A80055C487 /* Music.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Music.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,7 +128,16 @@
 			children = (
 				B2F15E4B2614CCDA0055C487 /* gestureApp.swift */,
 				B2F15E4D2614CCDA0055C487 /* ContentView.swift */,
+				B2F15E7A2614CD910055C487 /* ShuffleTray.swift */,
+				B2F15E7F2614CDAE0055C487 /* ResetButton.swift */,
+				B2F15E842614CDBD0055C487 /* GameNumber.swift */,
+				B2F15E9E2614CE5E0055C487 /* Letter.swift */,
 				B2F15E4F2614CCF00055C487 /* Assets.xcassets */,
+				B2F15EA52614E8380055C487 /* Resourse */,
+				B2F15E892614CE220055C487 /* start.txt */,
+				B2F15E8A2614CE220055C487 /* words.txt */,
+				B2F15E972614CE3D0055C487 /* Bundle-WordLoading.swift */,
+				B2F15EAD261564A80055C487 /* Music.swift */,
 				B2F15E542614CCF00055C487 /* Info.plist */,
 				B2F15E552614CCF00055C487 /* gesture.entitlements */,
 				B2F15E512614CCF00055C487 /* Preview Content */,
@@ -130,6 +169,14 @@
 				B2F15E6B2614CCF10055C487 /* Info.plist */,
 			);
 			path = gestureUITests;
+			sourceTree = "<group>";
+		};
+		B2F15EA52614E8380055C487 /* Resourse */ = {
+			isa = PBXGroup;
+			children = (
+				B2F15EA62614E8A60055C487 /* Knownobetter.mp3 */,
+			);
+			path = Resourse;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -236,6 +283,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				B2F15E532614CCF00055C487 /* Preview Assets.xcassets in Resources */,
+				B2F15E8B2614CE220055C487 /* start.txt in Resources */,
+				B2F15E8E2614CE220055C487 /* words.txt in Resources */,
+				B2F15EA72614E8A60055C487 /* Knownobetter.mp3 in Resources */,
 				B2F15E502614CCF00055C487 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -244,6 +294,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B2F15E8F2614CE220055C487 /* words.txt in Resources */,
+				B2F15E8C2614CE220055C487 /* start.txt in Resources */,
+				B2F15EA82614E8A60055C487 /* Knownobetter.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -251,6 +304,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B2F15E902614CE220055C487 /* words.txt in Resources */,
+				B2F15E8D2614CE220055C487 /* start.txt in Resources */,
+				B2F15EA92614E8A60055C487 /* Knownobetter.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,8 +317,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B2F15E9F2614CE5E0055C487 /* Letter.swift in Sources */,
 				B2F15E4E2614CCDA0055C487 /* ContentView.swift in Sources */,
 				B2F15E4C2614CCDA0055C487 /* gestureApp.swift in Sources */,
+				B2F15E7B2614CD910055C487 /* ShuffleTray.swift in Sources */,
+				B2F15E852614CDBD0055C487 /* GameNumber.swift in Sources */,
+				B2F15E982614CE3D0055C487 /* Bundle-WordLoading.swift in Sources */,
+				B2F15E802614CDAE0055C487 /* ResetButton.swift in Sources */,
+				B2F15EAE261564A80055C487 /* Music.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,7 +332,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B2F15EA02614CE5E0055C487 /* Letter.swift in Sources */,
+				B2F15E992614CE3D0055C487 /* Bundle-WordLoading.swift in Sources */,
 				B2F15E5F2614CCF10055C487 /* gestureTests.swift in Sources */,
+				B2F15EAF261564A80055C487 /* Music.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -278,7 +343,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B2F15EA12614CE5E0055C487 /* Letter.swift in Sources */,
+				B2F15E9A2614CE3D0055C487 /* Bundle-WordLoading.swift in Sources */,
 				B2F15E6A2614CCF10055C487 /* gestureUITests.swift in Sources */,
+				B2F15EB0261564A80055C487 /* Music.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
